@@ -1,0 +1,9 @@
+{
+  "name": "cheveo-learning-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/cheveo-learning-e2e/src",
+  "implicitDependencies": ["cheveo-learning"],
+  "// targets": "to see all targets run: nx show project cheveo-learning-e2e --web",
+  "targets": {}
+}
